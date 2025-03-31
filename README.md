@@ -1,8 +1,11 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning Azure and Linux
+  
 - 📫 How to reach me: chat with me on [linkedin!]  (https://www.linkedin.com/in/codybraemer/)
- -😄 Pronouns: He/Him
+ 
+-😄 Pronouns: He/Him
+  
  -⚡ Fun fact: Mildly competitive Highland Games Thrower and recreational Strongman!
 
 <!--
