@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Azure and Linux
   
-- 📫 How to reach me: chat with me on [linkedin!]  (https://www.linkedin.com/in/codybraemer/)
+- 📫 How to reach me: chat with me on [linkedin!](https://www.linkedin.com/in/codybraemer/)
  
 - 😄 Pronouns: He/Him
   
